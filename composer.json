@@ -1,5 +1,5 @@
 {
-    "name": "sly/relation-bundle",
+    "name": "undf/relation-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 bundle to manage relations between models/entities (like friends, contacts and others).",
     "keywords": ["relations", "entities", "models", "friends", "contacts"],
@@ -11,6 +11,9 @@
 	},{
 		"name": "Community contributors",
 		"homepage": "https://github.com/Ph3nol/RelationBundle/graphs/contributors"
+	},{
+		"name": "Dani Gonzalez",
+		"email": "daniel.gonzalez@undefined.es"
 	}],
     "require": {
         "php": ">=5.3.2",
